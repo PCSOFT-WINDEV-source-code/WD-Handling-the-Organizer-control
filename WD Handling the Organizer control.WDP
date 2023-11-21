@@ -1,0 +1,93 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Handling the Organizer control
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Handling the Organizer control
+    internal_properties : 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
+    configuration_id : 12575663439700119588
+    type : 1
+    generation_name : WD Handling the Organizer control.exe
+    version :
+     major_version : 22
+     generation_version : 1
+     internal_generation_version : 2
+     autoincrement_version : false
+    icon_filename : .\Organizer.ico
+    language : 2
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAAASepqmGz4BRiTjxDoLrLXR/JaZUSnH+V64gt0gygc6/OUMf2tjmqO5kGA8G61cvwMS5M69R2Bl2913
+ elements :
+  identifier : 0x4b0bc26300020970
+  elements :
+   -
+     name : TEST_WIN_MAIN
+     identifier : 0x4b0bdd14000c4dc2
+     internal_properties : CAAAAAgAAAD3U9/D4F3V1v8PHkEWW8uJVQRMlCB0Y+Su8xv64UrAQMBAOXa9O8cwvHhiXibaphriYg==
+     physical_name : .\TEST_WIN_MAIN.wxt
+     type : 17
+   -
+     name : WIN_APPOINTMENT_FORM
+     identifier : 0x4b0bc495000a9e01
+     internal_properties : CAAAAAgAAACLh/OXFFHZglu7it2CqHctcRK8PAay35aOd+HjqGMrLdNZ3NNRrzOcKBSOaiqmUkaOlg==
+     physical_name : .\WIN_APPOINTMENT_FORM.wdw
+     type : 2
+   -
+     name : IW_WinDevViewAPT
+     identifier : 0x4ed4bbb7000e3714
+     internal_properties : CAAAAAgAAADzTyt/zLnxKgOTcqU6MVtRifTQsI/FtBmqEASO2iByjnpm81zZJ6sUUMw2ggL++u7WXg==
+     physical_name : .\IW_WinDevViewAPT.wdw
+     type : 8
+   -
+     name : WIN_MAIN
+     identifier : 0x4b0bc2e9000815cf
+     internal_properties : CAAAAAgAAACF9zNfWCVsVofbVB7zGDuY0GJiAcTSq11Ysn7FApNK7SAGoEEysl4gm38rVH+bJI+A
+     physical_name : .\WIN_MAIN.wdw
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAAAdMs2aK5nYOEZlXtGnT/U2O3Pt8/g1LqIaHhMuzh/4b5WFkcQVkNF+ScXsHroG2DTFi5YRQgN7hsogT7l5AZbUdmY3Rijflp91
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Handling the Organizer control
+     identifier : 0x4b0bc2630003099f
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
